@@ -1,5 +1,7 @@
 # TEA
 
+[TEA]
+(./dist/index.html)
 ## Project setup
 ```
 yarn install
